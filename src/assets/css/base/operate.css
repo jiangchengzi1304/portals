@@ -1,0 +1,24 @@
+.left-list{
+    width: 200px;
+    height: 100%;
+    float: left;
+    background: rgb(48, 105, 136);
+}
+.right-content{
+    width: 100%;
+    height: 100%;
+    padding-left: 200px;
+}
+.operate-container .el-menu{
+    border-right: none;
+}
+.operate-container .el-submenu .el-menu-item{
+    min-width: 199px;
+}
+.operate-container .el-submenu__title{
+    padding-left: 30px;
+    text-align: left;
+}
+.operate-container  .el-submenu__title i {
+    color: #75b1c5;
+}

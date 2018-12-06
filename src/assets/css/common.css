@@ -1,0 +1,29 @@
+html {
+    /* font-size: 100px; */
+    height: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+body {
+    box-sizing: border-box;
+    height: 100%;
+    font-size: 0.14rem;
+    background: #143850;
+    overflow-x: hidden;
+}
+
+html, body, ul, li, h1, h2, h3, h4, h5, h6, table, th, td {
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style: none;
+}
+.basic-button{
+    width: 100px;
+    height: 38px;
+}
+.dialog-footer{
+    text-align: center;
+}
